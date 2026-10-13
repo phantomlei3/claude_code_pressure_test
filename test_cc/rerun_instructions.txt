@@ -1,0 +1,5 @@
+Read TASK.md and solve the programming problem. Work only in the current directory.
+
+Your submission is solution.py. Derive an algorithm, then write a complete executable Python solution.py as soon as you have a plausible solution; do not wait for exhaustive random testing or further exploration before writing it. You may test it briefly, but avoid open-ended brute-force experiments, repeated hypothesis searches, or long narrated reasoning. Reserve time at the end to ensure solution.py exists, contains code only, and reads stdin/writes stdout. If a proof or test remains incomplete, still produce the best justified solution.py rather than ending without a submission.
+
+Do not read files outside this task workspace. Do not report a solution solely in chat: solution.py is the submission that will be judged.

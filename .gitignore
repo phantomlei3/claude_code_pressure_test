@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+*.pid
+.run_cc.lock
+test_cc/runs/*
+!test_cc/runs/lcb1055_hf_20260830_011500/
+test_cc/runs/lcb1055_hf_20260830_011500/*
+!test_cc/runs/lcb1055_hf_20260830_011500/manifest.jsonl
+!test_cc/runs/lcb1055_hf_20260830_011500/run_metadata.json
